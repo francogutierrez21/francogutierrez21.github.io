@@ -1,0 +1,11 @@
+#Calendario{
+    display: inline-block;
+    width: 92%;
+    text-align:center;
+    margin-top: 16px;
+    background-color:cadetblue;
+    color:aliceblue;
+    font-size: 60px;
+    padding: 50px;
+    border-radius: 34px;
+}

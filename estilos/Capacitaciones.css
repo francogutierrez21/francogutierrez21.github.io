@@ -1,0 +1,35 @@
+h1{
+    display: inline-block;
+    width: 92%;
+    text-align:center;
+    margin-top: 16px;
+    background-color:cadetblue;
+    color:aliceblue;
+    font-size: 60px;
+    padding: 50px;
+    border-radius: 34px;
+}
+h2{
+    display: inline-block;
+width: 100%;
+    text-align: center;
+    background-color:darkcyan;
+    color: azure;
+}
+h3{
+    display: inline-block;
+    width: 90%;
+    background-color:cornsilk;
+    margin: 34px;
+    padding: 15px;
+    border: 12px Black double;
+   text-align: center
+}
+#Admin{
+    display: inline-block;
+    margin:1px; 
+    padding:2px; 
+    width: 30%;
+    
+    
+}

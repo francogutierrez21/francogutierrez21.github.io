@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    background:url(imagenes/Universo.jpg);
+        color:aliceblue;
+    font-size: 60px;
+    padding: 30px;
+    border-radius: 34px;
+}
+h2{
+     padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background: black;
+        color:aliceblue;
+    font-size: 30px;
+    width: 36%
+    
+}
+h3{
+    display: inline-block;
+    width: 29%;
+
+    background-color:azure;
+    margin: 34px;
+    padding: 15px;
+    border: 12px green double;
+   text-align: center;
+   
+   
+}
+#Teatro{
+    width: 250px;
+    padding: 3px;
+    margin: 10px;
+    border:12px red double;
+}
+
+div1{
+    display: inline-block;
+    float:right;
+    margin: 12px;
+}
+div2{
+    display: inline-block;
+    float: left;
+    margin:12px;
+}
+
+#futbol{
+    width: 250px;
+    padding: 3px;
+    margin: 10px;
+    border:12px red double;
+}
+#Basquet{
+    width: 250px;
+    padding: 3px;
+    margin: 10px;
+    border:12px red double;}
+
+        #Voleibol{
+    width: 250px;
+    padding: 3px;
+    margin: 10px;
+    border:12px red double;

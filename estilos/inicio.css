@@ -1,0 +1,46 @@
+h3{
+    display: inline-block;
+    float: left;
+    padding: 40px;
+    margin: 4px;
+    width: 90%;
+    border: 12px black double;
+    text-align: center;
+    background: url(imagenes/CancunPaisaje.jpg);
+}
+#Jaguar {
+       display: inline-block
+    width: 250px;
+    padding: 3px;
+    margin: 10px;
+    border:12px black double;
+ 
+    
+}
+#info{
+     display: inline-block;
+    float: left;
+    padding: 4px;
+    margin: 4px;
+    width: 48%;
+    border: 12px black double;
+    text-align: center;
+}
+#inst{
+    display: inline-block;
+    width: 500px;
+     padding: 3px;
+    margin: 30px;
+    border:12px black double;
+    float: right;
+   
+}
+#mapa{
+    display: inline-block;
+    width: 700px;
+     padding: 3px;
+    margin: 4px;
+    border:12px black double;
+   float: left;
+    
+}
